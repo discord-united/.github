@@ -12,7 +12,9 @@ Welcome to **Discord United** – a community-driven GitHub Organization dedicat
 | Category                                                                                | Description                                                                                                                                       |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[discord-united/awesome-discord](https://github.com/discord-united/awesome-discord)** | Curated list of community‑maintained Discord projects.                                                                                            |
+| **[discord-united/awesome-discord-lists](https://github.com/discord-united/awesome-discord-listss)**           | A list of awesome-discords similar to our [discord-united/awesome-discord](https://github.com/discord-united/awesome-discord) repository. |
 | **[discord-united/du-scripts](https://github.com/discord-united/du-scripts)**           | Tools developed by Discord United to maintain the [discord-united/awesome-discord](https://github.com/discord-united/awesome-discord) repository. |
+
 
 > ✨ Looking for something specific? Browse [all repositories](https://github.com/discord-united?tab=repositories).
 
